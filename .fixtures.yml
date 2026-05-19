@@ -2,7 +2,6 @@
 fixtures:
   repositories:
     concat: https://github.com/simp/puppetlabs-concat
-    compliance_markup: https://github.com/simp/pupmod-simp-compliance_markup
     iptables: https://github.com/simp/pupmod-simp-iptables
     pam: https://github.com/simp/pupmod-simp-pam
     oddjob: https://github.com/simp/pupmod-simp-oddjob
